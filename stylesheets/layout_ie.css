@@ -1,0 +1,19 @@
+input#search-filed {
+	margin-left: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: normal;
+}
+
+.s-col, .core-values, #file-header {
+	height: 1%;
+}
+
+.btn-result input {
+	float: right;
+}
+
+p#btn-submit{
+	margin-left: 80px;
+}
